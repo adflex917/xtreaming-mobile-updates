@@ -1,9 +1,11 @@
 {
-  "version": "9.2.0",
+  "version": "9.2.1",
   "url": "https://github.com/adflex917/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.0/xtreaming.apk",
+  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.1/xtreaming.apk",
   "whats_new": [
-    "Adding actors profile",
-    "Adding genres button"
+    "Fix filter genres not working",
+    "Fix clear cache delete license",
+    "Fix people detail screen error",
+    "Fix supabase dynamic import module error"
   ]
 }
