@@ -1,9 +1,9 @@
 {
-  "version": "9.1.9",
+  "version": "9.2.0",
   "url": "https://github.com/adflex917/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.1.9/xtreaming.apk",
+  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.0/xtreaming.apk",
   "whats_new": [
-    "Adding actors profile",
-    "Adding genres button"
+    "Added actor profiles",
+    "Added genres button"
   ]
 }
