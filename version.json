@@ -1,8 +1,10 @@
 {
-  "version": "9.2.1",
+  "version": "9.2.2",
   "url": "https://github.com/adflex917/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.1/xtreaming.apk",
+  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.2/xtreaming.apk",
   "whats_new": [
+    "Show whats new on update dialog",
+    "Fix APK auto-install with intent launcher",
     "Fix filter genres not working",
     "Fix clear cache delete license",
     "Fix people detail screen error",
