@@ -1,13 +1,13 @@
 {
-  "version": "9.3.0",
+  "version": "9.4.0",
   "url": "https://github.com/adflex917/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/Xv.9.3.0/Xtreaming.v9.3.0.apk",
+  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/Xv.9.4.0/Xtreaming.v9.4.0.apk",
   "whats_new": [
-    "8 provider embed: VidFast, VidSrc, VidLink, VidCore, VidEasy, VidZee, VidRock, VidStorm",
-    "Arsitektur ad-block berbasis EasyList + filter kustom per source",
-    "7-layer defense: native + JS + CSS untuk blokir iklan",
-    "ContentFilteringWebView — komponen WebView wrapper",
-    "npx gen:adblock script — update filter dari EasyList",
-    "Embed selection screen scrollable (8 provider)"
+    "X-Tube: YouTube via API Data v3 + Invidious playback bebas iklan",
+    "Native trending grid + search results dengan auto-suggest",
+    "Landscape player YouTube dengan free rotation",
+    "Anime + Manga jadi satu screen dengan sub-tab TV Series | Manga",
+    "Manga viewer fix: 1 halaman 1 layar penuh",
+    "YouTube embed player: safe area padding untuk kontrol"
   ]
 }
