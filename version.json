@@ -1,13 +1,13 @@
 {
-  "version": "9.2.2",
+  "version": "9.3.0",
   "url": "https://github.com/adflex917/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/v9.2.2/xtreaming.apk",
+  "apk_url": "https://github.com/adflex917/xtreaming-mobile-updates/releases/download/Xv.9.3.0/Xtreaming.v9.3.0.apk",
   "whats_new": [
-    "Show whats new on update dialog",
-    "Fix APK auto-install with intent launcher",
-    "Fix filter genres not working",
-    "Fix clear cache delete license",
-    "Fix people detail screen error",
-    "Fix supabase dynamic import module error"
+    "8 provider embed: VidFast, VidSrc, VidLink, VidCore, VidEasy, VidZee, VidRock, VidStorm",
+    "Arsitektur ad-block berbasis EasyList + filter kustom per source",
+    "7-layer defense: native + JS + CSS untuk blokir iklan",
+    "ContentFilteringWebView — komponen WebView wrapper",
+    "npx gen:adblock script — update filter dari EasyList",
+    "Embed selection screen scrollable (8 provider)"
   ]
 }
